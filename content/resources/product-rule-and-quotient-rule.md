@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Derivatives (12 videos)
+parent_type: SupplementalResourceSection
+related_resources_text: Lecture summary and Practice problems ([PDF](resources/mitres18_05s10_product_rule_quotient_rule
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: Product Rule and Quotient Rule
 uid: 5039c173-e4de-0230-3da7-dedb6ec27287

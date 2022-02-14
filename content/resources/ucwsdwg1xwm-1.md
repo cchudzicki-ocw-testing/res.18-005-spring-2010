@@ -3,7 +3,9 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-18-005-highlights-of-calculus-spring-2010/424a7610fccc797aaa2455d392246057_UcWsDwg1XwM.pdf
 file_type: application/pdf
+learning_resource_types: []
 resourcetype: Document
 title: 3play pdf file
+type: OCWFile
 uid: 424a7610-fccc-797a-aa24-55d392246057
 ---

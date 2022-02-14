@@ -7,7 +7,9 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
 resourcetype: Image
 title: lec1.jpg
+type: OCWImage
 uid: b2286808-d301-a174-21dc-19401bc192cd
 ---

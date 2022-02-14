@@ -7,7 +7,9 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
 resourcetype: Image
 title: Big_Picture_Derivatives.jpg
+type: OCWImage
 uid: 7a68a721-a598-55fd-c543-7fe4007f4778
 ---

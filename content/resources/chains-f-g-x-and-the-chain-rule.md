@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Derivatives (12 videos)
+parent_type: SupplementalResourceSection
+related_resources_text: Lecture summary and Practice problems ([PDF](resources/mitres18_05s10_chains_fgx_chain_rule
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: Chains f(g(x)) and the Chain Rule
 uid: d271ae24-770e-1e83-7be8-a33c2600924d

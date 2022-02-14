@@ -7,7 +7,9 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
 resourcetype: Image
 title: lec13.jpg
+type: OCWImage
 uid: 3ad90d18-f03a-60ef-ff0c-7b63dbb5d3fe
 ---

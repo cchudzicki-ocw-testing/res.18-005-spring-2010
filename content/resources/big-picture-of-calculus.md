@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Highlights of Calculus (5 videos)
+parent_type: SupplementalResourceSection
+related_resources_text: "Practice problems  \n([PDF](resources/mitres18_05s10_big_picture_calculus\
+  \ \"Open in a new window.\"))\n\nAudio summary for practice problems  \n([MP3 -\
+  \ 1.6MB](http://www.archive.org/download/MITRES18.005/MITRES18_005S10_BigPictureCalculus_Summary_32K.mp3))"
+resource_index_text: ''
 resourcetype: Video
 title: Big Picture of Calculus
 uid: afb08409-c408-09e3-672c-8d9dd62a9b9f

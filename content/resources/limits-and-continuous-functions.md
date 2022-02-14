@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Derivatives (12 videos)
+parent_type: SupplementalResourceSection
+related_resources_text: Lecture summary and Practice problems ([PDF](resources/mitres18_05s10_limits_continuous_functions
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: Limits and Continuous Functions
 uid: 67af9724-5fe5-f87d-005d-cacd2cad5cb1

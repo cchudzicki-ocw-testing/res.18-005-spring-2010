@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Derivatives (12 videos)
+parent_type: SupplementalResourceSection
+related_resources_text: Lecture summary and Practice problems ([PDF](resources/mitres18_05s10_differential_equations_motion
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: Differential Equations of Motion
 uid: 422cb899-b0af-a6fe-2617-f8b16f085a45

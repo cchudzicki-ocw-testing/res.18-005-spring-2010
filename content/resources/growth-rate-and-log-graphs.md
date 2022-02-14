@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Derivatives (12 videos)
+parent_type: SupplementalResourceSection
+related_resources_text: Lecture summary and Practice problems ([PDF](resources/mitres18_05s10_growth_rate_log_graphs
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: Growth Rate and Log Graphs
 uid: 78cc43c0-9034-d6f0-9f4b-d6ffb67be94e

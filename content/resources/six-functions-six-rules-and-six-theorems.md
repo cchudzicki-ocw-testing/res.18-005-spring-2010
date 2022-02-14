@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Derivatives (12 videos)
+parent_type: SupplementalResourceSection
+related_resources_text: Lecture summary and Practice problems ([PDF](resources/mitres18_05s10_sixfunc_sixrules_sixtheo
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: Six Functions, Six Rules, and Six Theorems
 uid: 9d656253-7791-0287-5915-af6cdfefc3ed

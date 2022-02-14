@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Derivatives (12 videos)
+parent_type: SupplementalResourceSection
+related_resources_text: Lecture summary and Practice problems ([PDF](resources/mitres18_05s10_der_sin_x_and_cos_x
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: Derivative of sin x and cos x
 uid: 7eb3ca6c-874d-219f-37c6-afd983dc2bb3

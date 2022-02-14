@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Derivatives (12 videos)
+parent_type: SupplementalResourceSection
+related_resources_text: Lecture summary and Practice problems ([PDF](resources/mitres18_05s10_inverse_functions_logarithms
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: Inverse Functions f ^-1 (y) and the Logarithm x = ln y
 uid: 959fe3db-92c3-04d7-8136-dd19714275a4

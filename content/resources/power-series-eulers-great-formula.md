@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Derivatives (12 videos)
+parent_type: SupplementalResourceSection
+related_resources_text: Lecture summary and Practice problems ([PDF](resources/mitres18_05s10_power_series_eulers_formula
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: Power Series/Euler's Great Formula
 uid: 31f03fac-3ef3-d789-15b8-a774467332c1

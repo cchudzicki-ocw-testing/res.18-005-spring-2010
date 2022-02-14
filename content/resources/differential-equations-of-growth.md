@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Derivatives (12 videos)
+parent_type: SupplementalResourceSection
+related_resources_text: Lecture summary and Practice problems ([PDF](resources/mitres18_05s10_differential_equations_growth
+  "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: Differential Equations of Growth
 uid: 80ccf6b7-6669-e66f-9eb4-1f5cb5f25bf2
@@ -14,7 +22,7 @@ video_metadata:
   youtube_id: IDo4uPyqQbQ
 ---
 
-The key model for growth (or decay when c < 0) is  dy/dt = c y(t)  
+The key model for growth (or decay when c \< 0) is  dy/dt = c y(t)  
 The next model allows a steady source (constant s in dy/dt = cy + s )  
 The solutions include an exponential e^ct  (because its derivative brings down c)  
 So growth forever if c is positive and decay if c is negative  
