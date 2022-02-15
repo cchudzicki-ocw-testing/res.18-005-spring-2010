@@ -10,6 +10,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: Big_Picture_Integrals.jpg
-type: OCWImage
 uid: 8cb8aca5-583b-6c7a-2383-721ee7e27021
 ---

@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: MITRES18_05S10_Big_Picture_Calculus.pdf
-type: OCWFile
 uid: a5aacef1-17d0-0f9b-80b9-5533a8c7f5a0
 ---

@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: MITRES18_05S10_Inverse_Functions_Logarithms.pdf
-type: OCWFile
 uid: 7e06ff0e-745f-fb8d-5a94-e3d16efbdc53
 ---

@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: MITRES18_05S10_Limits_Continuous_Functions.pdf
-type: OCWFile
 uid: 2acfe7c6-043b-7b2f-9c78-cd99740bb57e
 ---

@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: MITRES18_05S10_Paper_3.pdf
-type: OCWFile
 uid: 194bd4a2-021d-c158-ae73-2a64b74b55d2
 ---

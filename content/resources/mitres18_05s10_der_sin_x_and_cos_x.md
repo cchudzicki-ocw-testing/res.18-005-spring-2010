@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: MITRES18_05S10_Der_sin_x_and_cos_x.pdf
-type: OCWFile
 uid: 618734d6-0a96-8b2b-1cb2-d8c8f0a80ef0
 ---

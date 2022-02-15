@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: MITRES18_05S10_Max_Min.pdf
-type: OCWFile
 uid: efe929ec-c926-5c3f-1694-1d638dcf8f84
 ---

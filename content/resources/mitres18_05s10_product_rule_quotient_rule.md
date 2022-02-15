@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: MITRES18_05S10_Product_Rule_Quotient_Rule.pdf
-type: OCWFile
 uid: de83770a-353f-002b-3537-a02dc99bfa10
 ---

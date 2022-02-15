@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: MITRES18_05S10_Exponential.pdf
-type: OCWFile
 uid: 1b96e913-9f30-8c98-2f0a-771b970231d9
 ---

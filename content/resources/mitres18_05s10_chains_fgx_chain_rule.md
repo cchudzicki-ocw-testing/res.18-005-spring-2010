@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: MITRES18_05S10_Chains_fgx_Chain_Rule.pdf
-type: OCWFile
 uid: 74e213d4-6fc1-4669-2bc5-d60223e610eb
 ---

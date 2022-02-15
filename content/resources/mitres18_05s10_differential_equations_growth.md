@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: MITRES18_05S10_Differential_Equations_Growth.pdf
-type: OCWFile
 uid: 40a16c6c-41cf-10fb-1d74-d18c3292b70b
 ---

@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: MITRES18_05S10_Linear_Approx_Newtons_Method.pdf
-type: OCWFile
 uid: 3ef313e3-f355-181a-608b-286110788d8e
 ---

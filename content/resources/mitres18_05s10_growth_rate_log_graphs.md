@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: MITRES18_05S10_Growth_Rate_Log_Graphs.pdf
-type: OCWFile
 uid: eba56cdd-70e6-4afe-a45e-fcb4da10435d
 ---

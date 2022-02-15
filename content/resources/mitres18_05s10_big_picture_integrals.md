@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: MITRES18_05S10_Big_Picture_Integrals.pdf
-type: OCWFile
 uid: 2548145d-00f0-fb97-9b65-bb6c08ceeb6a
 ---

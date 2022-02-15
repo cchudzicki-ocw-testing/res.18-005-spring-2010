@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: MITRES18_05S10_Power_Series_Euler's_Formula.pdf
-type: OCWFile
 uid: ae6e5ed1-d5d6-07fc-e5bc-d59fd2c589a5
 ---

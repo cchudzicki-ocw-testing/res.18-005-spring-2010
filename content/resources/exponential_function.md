@@ -10,6 +10,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: exponential_function.jpg
-type: OCWImage
 uid: c4462180-ad26-84c4-1d54-bee66ebf1633
 ---

@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: MITRES18_05S10_Big_Picture_Derivatives.pdf
-type: OCWFile
 uid: 49176758-ccc5-5fb8-7ef0-97fda2bca7ed
 ---

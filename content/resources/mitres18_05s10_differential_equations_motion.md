@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: MITRES18_05S10_Differential_Equations_Motion.pdf
-type: OCWFile
 uid: e016cce1-8ae2-7c73-30cb-39ffc3769792
 ---

@@ -10,6 +10,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: lec10.jpg
-type: OCWImage
 uid: 66df1151-f4f3-6767-18c8-9f502fbf99ee
 ---
