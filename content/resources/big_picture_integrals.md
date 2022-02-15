@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: Big_Picture_Integrals.jpg
 uid: 8cb8aca5-583b-6c7a-2383-721ee7e27021

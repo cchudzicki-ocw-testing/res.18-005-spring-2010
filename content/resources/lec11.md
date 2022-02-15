@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: lec11.jpg
 uid: 14268ef4-4d26-5e55-0f5c-829d14582a44

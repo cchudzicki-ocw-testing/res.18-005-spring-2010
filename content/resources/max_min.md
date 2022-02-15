@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: Max_Min.jpg
 uid: 5d8fd5aa-f5ce-e569-2b68-977db0947f02

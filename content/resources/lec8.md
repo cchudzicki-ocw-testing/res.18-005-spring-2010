@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: lec8.jpg
 uid: 922f825f-c1a9-7a77-aafb-375c51a56bfc

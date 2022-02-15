@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: Big_Picture_of_Calculus.jpg
 uid: 34f0233d-929d-f989-2127-50fa8014cf37

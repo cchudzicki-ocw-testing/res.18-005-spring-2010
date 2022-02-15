@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: exponential_function.jpg
 uid: c4462180-ad26-84c4-1d54-bee66ebf1633

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: lec2.jpg
 uid: 0619c446-8928-e870-2db4-7eff2de09eff

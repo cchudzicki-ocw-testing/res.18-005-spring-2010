@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: lec10.jpg
 uid: 66df1151-f4f3-6767-18c8-9f502fbf99ee
