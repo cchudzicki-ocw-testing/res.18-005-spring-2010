@@ -8,8 +8,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Derivatives (12 videos)
 parent_type: SupplementalResourceSection
-related_resources_text: Lecture summary and Practice problems ([PDF](resources/mitres18_05s10_chains_fgx_chain_rule
-  "Open in a new window."))
+related_resources_text: Lecture summary and Practice problems ([PDF](/courses/res-18-005-highlights-of-calculus-spring-2010/resources/mitres18_05s10_chains_fgx_chain_rule))
 resource_index_text: ''
 resourcetype: Video
 title: Chains f(g(x)) and the Chain Rule
