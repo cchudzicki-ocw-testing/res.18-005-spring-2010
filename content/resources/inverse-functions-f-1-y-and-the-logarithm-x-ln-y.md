@@ -8,8 +8,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Derivatives (12 videos)
 parent_type: SupplementalResourceSection
-related_resources_text: Lecture summary and Practice problems ([PDF](resources/mitres18_05s10_inverse_functions_logarithms
-  "Open in a new window."))
+related_resources_text: Lecture summary and Practice problems ([PDF](/courses/res-18-005-highlights-of-calculus-spring-2010/resources/mitres18_05s10_inverse_functions_logarithms))
 resource_index_text: ''
 resourcetype: Video
 title: Inverse Functions f ^-1 (y) and the Logarithm x = ln y
