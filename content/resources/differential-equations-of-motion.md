@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: Lecture summary and Practice problems ([PDF](/courses/res-18-005-highlights-of-calculus-spring-2010/resources/mitres18_05s10_differential_equations_motion))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Differential Equations of Motion
 uid: 422cb899-b0af-a6fe-2617-f8b16f085a45
 video_files:

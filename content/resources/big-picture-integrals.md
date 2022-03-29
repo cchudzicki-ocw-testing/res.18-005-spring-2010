@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -12,6 +13,7 @@ related_resources_text: "Practice problems  \n([PDF](resources/mitres18_05s10_bi
   \ 2.3MB](http://www.archive.org/download/MITRES18.005/MITRES18_005S10_BigPictureIntegrals_Summary_32k.mp3))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Big Picture: Integrals'
 uid: 85edaa1e-64f0-a5b3-1ce3-b236f251fafd
 video_files:

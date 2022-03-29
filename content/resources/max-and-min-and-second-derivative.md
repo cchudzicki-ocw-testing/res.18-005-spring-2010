@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -12,6 +13,7 @@ related_resources_text: "Practice problems  \n([PDF](resources/mitres18_05s10_ma
   \ 2.2MB](http://www.archive.org/download/MITRES18.005/MITRES18_005S10_MaxMin_Summary_32K.mp3))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: ' Max and Min and Second Derivative '
 uid: 01949535-b777-ea4f-e0bb-02a710595d7d
 video_files:

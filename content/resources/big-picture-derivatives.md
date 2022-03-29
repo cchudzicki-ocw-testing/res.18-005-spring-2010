@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -12,6 +13,7 @@ related_resources_text: "Practice problems  \n([PDF](resources/mitres18_05s10_bi
   \ 1.7MB](http://www.archive.org/download/MITRES18.005/MITRES18_005S10_BigPictureDerivatives_Summary_32K.mp3))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Big Picture: Derivatives'
 uid: 37fc6a36-f691-f505-3e10-9249f701dde6
 video_files:

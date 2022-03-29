@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: Lecture summary and Practice problems ([PDF](/courses/res-18-005-highlights-of-calculus-spring-2010/resources/mitres18_05s10_power_series_eulers_formula))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Power Series/Euler's Great Formula
 uid: 31f03fac-3ef3-d789-15b8-a774467332c1
 video_files:

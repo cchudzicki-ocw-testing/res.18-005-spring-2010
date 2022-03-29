@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: Lecture summary and Practice problems ([PDF](/courses/res-18-005-highlights-of-calculus-spring-2010/resources/mitres18_05s10_paper_3))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Derivatives of ln y and sin ^-1 (y)
 uid: 59d26b87-98d0-445f-1283-9ca8a86d4652
 video_files:

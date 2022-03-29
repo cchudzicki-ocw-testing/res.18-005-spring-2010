@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -12,6 +13,7 @@ related_resources_text: "Practice problems  \n([PDF](resources/mitres18_05s10_ex
   \ 1.9MB](http://www.archive.org/download/MITRES18.005/MITRES18_005S10_Exponential_Summary_32K.mp3))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: The Exponential Function
 uid: 951751ae-894f-06ca-aa3c-a3708467e24d
 video_files:

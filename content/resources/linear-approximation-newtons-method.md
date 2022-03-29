@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: Lecture summary and Practice problems ([PDF](/courses/res-18-005-highlights-of-calculus-spring-2010/resources/mitres18_05s10_linear_approx_newtons_method))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Linear Approximation/Newton's Method
 uid: 33cca321-7ea0-31ae-65fa-88b9a985288e
 video_files:

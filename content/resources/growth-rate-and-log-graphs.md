@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: Lecture summary and Practice problems ([PDF](/courses/res-18-005-highlights-of-calculus-spring-2010/resources/mitres18_05s10_growth_rate_log_graphs))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Growth Rate and Log Graphs
 uid: 78cc43c0-9034-d6f0-9f4b-d6ffb67be94e
 video_files:

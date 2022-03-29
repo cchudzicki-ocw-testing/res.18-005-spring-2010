@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: Lecture summary and Practice problems ([PDF](/courses/res-18-005-highlights-of-calculus-spring-2010/resources/mitres18_05s10_sixfunc_sixrules_sixtheo))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Six Functions, Six Rules, and Six Theorems
 uid: 9d656253-7791-0287-5915-af6cdfefc3ed
 video_files:
