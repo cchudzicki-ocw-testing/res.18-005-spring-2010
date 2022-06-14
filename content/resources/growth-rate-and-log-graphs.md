@@ -36,3 +36,4 @@ You will never see y = 0 on these graphs because log 0 is minus infinity.  But 
 Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005).
 
 Subtitles are provided through the generous assistance of Jimmy Ren.
+

@@ -38,3 +38,4 @@ Professor Strang's Calculus textbook (1st edition, 1991) is freely available [he
 
   
 Subtitles are provided through the generous assistance of Jimmy Ren.
+

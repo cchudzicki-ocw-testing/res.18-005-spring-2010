@@ -38,3 +38,4 @@ Fermat saw magic using i^2 = -1   Then  e^ix  exactly matches   cos x + i 
 Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005).
 
 Subtitles are provided through the generous assistance of Jimmy Ren.
+

@@ -32,3 +32,4 @@ _I know the speed at each moment of my trip, so how far did I go?_
 Professor Strang's Calculus textbook (1st edition, 1991) is freely available [here](/courses/res-18-001-calculus-online-textbook-spring-2005).
 
 Subtitles are provided through the generous assistance of Jimmy Ren.
+
